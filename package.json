@@ -1,0 +1,30 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "description": "learning sample project with descriptive",
+  "keywords": [],
+  "homepage": "https://github.com/aarkayreddy/react-learn#readme",
+  "bugs": {
+    "url": "https://github.com/aarkayreddy/react-learn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarkayreddy/react-learn.git"
+  },
+  "license": "ISC",
+  "author": "aarkay",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
